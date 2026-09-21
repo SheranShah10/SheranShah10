@@ -1,81 +1,71 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Sheran%20Shah&fontSize=80&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Web%20Developer&descAlignY=70&descSize=25" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=550&lines=%3E_Initializing_System...;%3E_Training_Neural_Networks...;%3E_Building_Scalable_Web_Apps...;%3E_Deploying_to_Production..." alt="Typing SVG" />
-  </a>
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SheranShah10&label=PROFILE+VIEWS&color=BD93F9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090916,100:2b1055&amp;height=250&amp;section=header&amp;text=Sheran%20Shah&amp;fontSize=90&amp;fontColor=b084f5&amp;animation=twinkling&amp;desc=AI%20Engineer%20%2B%20Web%20Developer&amp;descAlignY=70&amp;descSize=24" alt="Space Header" />
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=✧_Drifting_in_the_AI_Space_✧;✦_Engineering_Neural_Constellations_✦;✧_Architecting_Web_Galaxies_✧;✦_Seeking_Zero_Gravity_Code_✦" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🚀 `< SYSTEM_OVERVIEW />`
-
-Welcome to my digital workspace! I'm an **AI Engineer & Full-Stack Developer** focused on bridging the gap between cutting-edge Artificial Intelligence and robust, scalable web architecture. I specialize in designing intelligent systems and responsive user interfaces.
-
-- 🧠 **Current Mission:** Integrating Machine Learning models into modern web frameworks.
-- ⚡ **Superpowers:** Neural Networks, React Ecosystem, and cloud deployments.
-- 💬 **Ping me about:** `Python`, `Next.js`, `TensorFlow`, `TypeScript`.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SheranShah10&amp;label=ORBITAL+VIEWS&amp;color=2b1055&amp;style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 💻 `< TECH_STACK />`
+<p align="center">
+  <em>"Floating in the digital expanse, connecting AI nodes to web frontiers."</em>
+</p>
 
-<div align="center">
-  <p><strong>» Core Technologies & Frameworks</strong></p>
+---
+
+## 🌌 `< CONSTELLATION_STACK />`
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tf,pytorch,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,docker,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,tf,pytorch,js,ts,react,nextjs,nodejs,tailwind,mongodb,postgres,docker,git,linux&amp;perline=7" alt="Tech Stack Orbit" />
   </a>
-</div>
+</p>
 
 ---
 
-## 📈 `< DEVELOPER_DASHBOARD />`
+## 🛸 `< ORBITAL_DASHBOARD />`
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SheranShah10&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SheranShah10&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
   </a>
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SheranShah10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=090916" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheranShah10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=090916" alt="Top Languages" />
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SheranShah10&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheranShah10&layout=compact&theme=dracula&hide_border=true&bg_color=282A36" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheranShah10&theme=dracula&hide_border=true&background=282A36" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheranShah10&amp;theme=tokyonight&amp;hide_border=true&amp;background=090916" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
-## 🌐 `< CONNECT_WITH_ME />`
+## 📡 `< ESTABLISH_CONTACT />`
 
-<div align="center">
-  <p>Feel free to reach out for collaborations or just a friendly tech chat!</p>
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/sheran-shah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Orbital_Station-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Comms_Channel-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:090916,100:2b1055&amp;height=100&amp;section=footer" alt="Footer Wave" />
+</p>
