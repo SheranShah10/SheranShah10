@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/sheran-shah/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sheran.shah@gmail.com">
+<a href="mailto:Syedsheran10@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/SheranShah10">
@@ -24,15 +24,15 @@
 
 <br/>
 
-## 🚀 System Overview
+##  System Overview
 
 I'm an **AI Engineer & Full-Stack Developer**, and IT undergraduate at **Bahria University, Islamabad**, focused on bridging the gap between applied Artificial Intelligence and robust, scalable web architecture. I design intelligent systems on the backend and pair them with clean, responsive interfaces on the front.
 
-- 🧠 **Current Mission:** Integrating machine learning models into modern web frameworks
-- 🔭 **Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
-- 🎓 **Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
-- ⚡ **Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
-- 💬 **Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
+**Current Mission:** Integrating machine learning models into modern web frameworks
+**Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
+**Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
+**Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
+**Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
 
 <br/>
 
