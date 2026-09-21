@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/sheran-shah/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:Syedsheran10@gmail.com">
+<a href="mailto:sheran.shah@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/SheranShah10">
@@ -110,12 +110,12 @@ My personal developer portfolio — showcasing projects, skills, and experience.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SheranShah10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" width="90%"/>
+<img src="https://github-profile-trophy-mu-rust.vercel.app/?username=SheranShah10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SheranShah10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheranShah10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%"/>
+<img src="https://github-readme-stats-dusky-nine-86.vercel.app/api?username=SheranShah10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-dusky-nine-86.vercel.app/api/top-langs/?username=SheranShah10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%"/>
 
 <br/><br/>
 
