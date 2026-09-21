@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sheran%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Community%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/sheran-shah/">
+<a href="www.linkedin.com/in/sheran-shah">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sheran.shah@gmail.com">
+<a href="mailto:Syedsheran10@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/SheranShah10">
@@ -24,19 +24,19 @@
 
 <br/>
 
-## 🚀 System Overview
+## System Overview
 
 I'm an **AI Engineer & Full-Stack Developer**, and IT undergraduate at **Bahria University, Islamabad**, focused on bridging the gap between applied Artificial Intelligence and robust, scalable web architecture. I design intelligent systems on the backend and pair them with clean, responsive interfaces on the front.
 
-- 🧠 **Current Mission:** Integrating machine learning models into modern web frameworks
-- 🔭 **Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
-- 🎓 **Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
-- ⚡ **Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
-- 💬 **Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
+- **Current Mission:** Integrating machine learning models into modern web frameworks
+- **Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
+- **Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
+- **Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
+- **Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
 
 <br/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@ I'm an **AI Engineer & Full-Stack Developer**, and IT undergraduate at **Bahria 
 
 <br/>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I'm an **AI Engineer & Full-Stack Developer**, and IT undergraduate at **Bahria 
 <tr>
 <td width="50%">
 
-### 🅿️ [Parkinson's Progression Predictor](https://github.com/SheranShah10/Parkinson)
+### [Parkinson's Progression Predictor](https://github.com/SheranShah10/Parkinson)
 Final Year Project — an ML benchmark pipeline predicting Parkinson's disease severity, stage, and progression from patient data.
 
 `Python` `Machine Learning` `Data Science`
@@ -75,7 +75,7 @@ Final Year Project — an ML benchmark pipeline predicting Parkinson's disease s
 </td>
 <td width="50%">
 
-### 🧠 [Rag-System](https://github.com/SheranShah10/Rag-System)
+### [Rag-System](https://github.com/SheranShah10/Rag-System)
 A Retrieval-Augmented Generation system that grounds LLM responses in real, external data.
 
 `TypeScript` `AI/ML`
@@ -85,7 +85,7 @@ A Retrieval-Augmented Generation system that grounds LLM responses in real, exte
 <tr>
 <td width="50%">
 
-### 🚌 [University Bus Tracking System](https://github.com/SheranShah10/University-Bus-Tracking-System)
+### [University Bus Tracking System](https://github.com/SheranShah10/University-Bus-Tracking-System)
 A real-time tracking solution built to help students monitor university transport.
 
 `Full-Stack`
@@ -93,7 +93,7 @@ A real-time tracking solution built to help students monitor university transpor
 </td>
 <td width="50%">
 
-### 💼 [Portfolio](https://github.com/SheranShah10/Sheran_Portfolio)
+### [Portfolio](https://github.com/SheranShah10/Sheran_Portfolio)
 My personal developer portfolio — showcasing projects, skills, and experience.
 
 `JavaScript`
@@ -106,7 +106,7 @@ My personal developer portfolio — showcasing projects, skills, and experience.
 
 <br/>
 
-## 📊 Developer Dashboard
+## Developer Dashboard
 
 <div align="center">
 
@@ -121,15 +121,11 @@ My personal developer portfolio — showcasing projects, skills, and experience.
 
 <img src="https://streak-stats.demolab.com/?user=SheranShah10&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph-five-rosy.vercel.app/graph?username=SheranShah10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
-
 </div>
 
 <br/>
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
