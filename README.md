@@ -24,15 +24,15 @@
 
 <br/>
 
-##  System Overview
+## 🚀 System Overview
 
 I'm an **AI Engineer & Full-Stack Developer**, and IT undergraduate at **Bahria University, Islamabad**, focused on bridging the gap between applied Artificial Intelligence and robust, scalable web architecture. I design intelligent systems on the backend and pair them with clean, responsive interfaces on the front.
 
-**Current Mission:** Integrating machine learning models into modern web frameworks
-**Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
-**Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
-**Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
-**Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
+- 🧠 **Current Mission:** Integrating machine learning models into modern web frameworks
+- 🔭 **Building:** an MVP for a digital payments device that helps small street vendors accept cashless payments
+- 🎓 **Final Year Project:** benchmarking ML models to predict Parkinson's disease severity, stage, and progression
+- ⚡ **Core Strengths:** neural networks, the React/Node ecosystem, and cloud deployment
+- 💬 **Ask me about:** `Python`, `TensorFlow`/`PyTorch`, `React` & `Next.js`, `TypeScript`
 
 <br/>
 
@@ -123,7 +123,7 @@ My personal developer portfolio — showcasing projects, skills, and experience.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SheranShah10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph-five-rosy.vercel.app/graph?username=SheranShah10&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 
 </div>
 
